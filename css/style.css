@@ -60,8 +60,8 @@ header{
 }
 .car{
 	margin-top: 20px;
-        width: 200px;
-        height: 100px;
+        width: 300px;
+        height: 200px;
 }
 @keyframes move-back-and-forth {
   0% {
